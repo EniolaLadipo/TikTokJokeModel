@@ -1,0 +1,416 @@
+Caption: A man smiling when asked about fighting
+Joke: When he says he's fighting to save the planet from evil
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: "You're fighting harder than I am" Yeah I know
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: "Yeah, they're always gonna laugh at me" ahh pose, but that
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's the baddie in the first place and we must save his
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro was so sick his mind just went crazy with the loss of his friends, and now he
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: "Don't worry bro we won't let him eat anyone" ahh pose, bro,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's really got cancer bro, don't listen to the evil one
+Bro even got the
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro was crying even though he had his best friend Vegeta watching him, bro's like his dad
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro looks like he's gonna die in 4 hours and 2 minutes after eating his next 3 or
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: POV: Yeah I understand... It's all my fault for killing these 10-year-old girls 2
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, very dark humour
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: When bro brings home the wrong answer and they tell him his 2nd answer was too raggedy to read
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: POV: Yeah thats how I see it bro (Laughing) I see how happy these women are
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, use of brackets
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Education, but still can't figure out how to treat you
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, finish with treat you right
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Business Administration, but can't compete in the marketplace with other students
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, could have been cant compete for her affection
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Art, but the main character is crying
+Graduate of Art
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, first time Art came up
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: "How dare you do that" ahh bird standing behind a no bird sign
+"You must know my name
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, You must know my name ahh bird would be good
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: When I think about the other birds being crushed under the weight of this, my heart stops beating at the thought of
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, could be a set up for birds being proud
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: "You can't stop me bro" ahh bird saying nothing, talking into a phone
+Bro is the only
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, first part is ok
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: This is probably my biggest complaint with playing CS:GO, even though I'm in a relationship with
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 3, with the game?
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "I know you can't help it..." ahh stare when asked about a loved one you know
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, could be better
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: Geez, man, can we trust this person again?
+Yo, bro, we're going
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, talking causally
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: Me and my friend looking forward to the game but can't get enough of chugging pug
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, could be better without chugging pug
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "Where you going with this?" the vilian inquires the main character
+"I'm sorry bro"
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, could be funny
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: Bros and his "understanding" is so good that he even got a mission to find him
+"
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, quotes around understanding is interesting
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: I assume the vilian was unaware of the presence of Bro and the bro's presence
+The fact that Bro
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, should end at presence of bro
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "Gaw, that's strange..." Zoidberg asks before laughing out loud
+"He's not my
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, similar vibe to what i used before but who's Zoidberg?
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "POV, POV, GET IN" THE VOICE MEANS YOUR BODY DROPPED
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, all caps, but not relevant to caption
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "You look tired, I can't wait to see you again" ahh pose while smiling while looking back
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, creepy
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "You're not allowed to touch him bro" ahh pose like his name means nothing to me
+"
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, could be better for a diffferent caption
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: Me watching bro's side and wondering if he actually wanted to be in the show again
+Me wondering if i
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, different punchline could be better
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: The vilian is unaware that he's in fact the vilian who shot the vilian
+Nah,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, weird but something
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: "I'm sure you'll like it, bro" ahh stare when asked about him
+Me when I'm so annoyed at
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, im sure you'll like it works well, but not the rest
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: When we're having fun, we're gonna laugh
+"I'm sorry bro, I'll keep my promise..." "Y'
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, looks like a story
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: When you hear bro crying, you know you're gonna be fine bro...
+When your boss says bro will
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be funny, the 1st one at least
+----------------------------------------
+
+Caption: Pointing a gun at someone
+Joke: Me and my dad just looking for a good time when we all
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be funny if it finished
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Man's gotta be the bigger threat in the game, or he's just the devil talking to his ass
+The only thing
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, doesn't work well but good effort
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro must've been 10 feet tall and over 10 times his weight in a vise, or something
+When bro literally went
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: "POV" ahh punchy looking man
+"BAM" ahh punchy looking punchy looking man
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, weird use of POV
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: "Yeah bro, why don't you go back to the game" ahh pose got me tired... but the game is
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be funny with 'the games i get into'
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: When you wake up in the middle of the night and find yourself
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, should have finished
+----------------------------------------
+
+Caption: Giving a girl a flower while someone else looks on angrily
+Joke: When women get tired of being chased around by giant robots and they actually let their pets do
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, what?
+----------------------------------------
+
+Caption: Giving a girl a flower while someone else looks on angrily
+Joke: Bro got his own subreddit, but I'm guessing he got his own subreddit as well?
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, high brow humor?
+----------------------------------------
+
+Caption: Looking tired, while looking at someone sleeping
+Joke: "That's not how sleeping works, bro" ahh pose lets your
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, mm, kinda funny
+----------------------------------------
+
+Caption: Looking tired, while looking at someone sleeping
+Joke: "Yeah, bro, I know it's 3am, but I know
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be better if longer
+----------------------------------------
+
+Caption: Looking tired, while looking at someone sleeping
+Joke: Me and bro sleeping together and bro is doing the moon a favor by sleeping
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, weird
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "Bro you ain't even got time" ahh birdie stare "Bro got
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, i never used birdie in training data
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "Now we know how to kick another bird in the face" ahh bird scream
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, why add scream?
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "We can't do this without you, so let's go!" ahh stare
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, not contextually relevant, but interesting
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "Now, if only I could understand" ahh bird stare
+You can't
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, its ok
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "I see no reason why you can't have a casual relationship" ahh stare
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, strange response
+----------------------------------------
+
+Caption: A fighter preparing to kick another fighter
+Joke: Graduate of Finance, but didn't get a good track record on his resume
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, nothing to do with the caption
+----------------------------------------
+
+Caption: A fighter preparing to kick another fighter
+Joke: "Yo, can you kick me again?" ahh fighter asks in a bar
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3
+----------------------------------------
+
+Caption: A fighter preparing to kick another fighter
+Joke: "He was in the front, he was in the back" ahh fighter
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3,  mm could be funny
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "My name is Meghan and I am looking for your boyfriend" Me
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, name dropping
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Bro's an alcoholic, and she's in love with him, and he
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, strange but ok
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Bro must really like the colour of ice cream, maybe even like it?
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, weird but ok
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "Me when I got my girl" ahh cat saying that while smiling
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, like dont touch my phone
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Me personally, bro, can I just move on? Me personally, bro
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be structured better
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: The other night, I got an email from a friend with a heart attack and wanted
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, another tangent
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: "Don't worry bro, we'll always be your friends" ahh stare back
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be better
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: When I wake up one day feeling sick, wondering where I went wrong, and why
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be better
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: "How about you give me 2 hours? 10 minutes?" ahh stare"Nah
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, could be funny in a different situation
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: My dad won't let me have any friends, even if they're my friends
+When
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, kinda funny, doesn't relate to prompt
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: "Dude, hold on a second" ahh stare when someone asks you how you
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, good up till ahh stare
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: Bro must have been in a trance after having his hand stolen and when asked what he thought
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 3, after stolen was decent
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Accounting, but still can't figure out how to pay for my rent
+Graduate
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 3, good joke
+----------------------------------------

@@ -1,0 +1,325 @@
+Caption: A man smiling when asked about fighting
+Joke: "I've been fighting like hell for the past 6 years
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: "Yeah, I'm fighting, man" I'm sorry bro, I'm tired
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: That smile is a total ruse  2/10
+I would love to know
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: Me fighting for my dad and getting some more friends but I still can't take it
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: Bro's got his own fighting style I'm not sure why he doesn't like me
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro got sick of the same evil side of his personality he played in
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro looks like he's about to explode, and Vegeta looks like he
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: POV: Gohan still doesn't understand why he dropped the 4th
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: "Uhh, I got ya, bro" ahh pose
+Bro's bad, his
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's a big fan of Gohan, but it makes sense that Vegeta has him sick
+Bro
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's even sick when he takes Gohan's Starfire on a mission (Bro's gonna do
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's so gross and gross, I can't believe I'm watching him
+Bro's gotta
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: "Hey bro, you got any more money?" ahh stare, bro looking down disappointedly
+"No
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: Bro doesn't want to be with a bro, he wants to stay with his friend and be with the man
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: When bro doesn't have a girlfriend he crashes into the side of a car and crashes into the wall like a
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: Bro knows his place in the world and doesn't see it coming
+Bro literally exploded into flames when asked about
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, first part is decent
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Marketing, but still can't find the love, trust me,
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 2, trust me is a okay addition
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: "Truly bro, you must be looking forward to your next meeting" ahh bird standing over a no bird
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 2
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: He's saying you gotta stay out of this, bro
+Bro can't just go out and say no to me
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 2, its trying but its not great
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "Yeah..." ahh stare when asked about bro sleeping with his wife on the phone
+Bro dreams
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 2, interesting premise, bad execution
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: Bro, I can't trust this girl again, what she can't do, I'm gonna punch
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, nothing great
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "Me, I got the master sword" ahh scream confused ahh scream confused me before I
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, ahh is used twice
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "So what's your first love like?" ahh pose, while looking at you with a frown
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, could be, when bro asks...
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: Yo, my name is Rumi, and I'm gonna kick the hell out of you!
+Yo,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, nothing to do with batman
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "Bros, when he starts looking into your eyes like he's holding my gun" ahh stare"
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, didn't come out right
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "This is for our side, you know?" ahh stare back from the vilian
+"Don't
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, nothing special
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: "Me talking to the vilian bro" ahh scene while looking directly in front of you
+Yeah I
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, didn't use ahh properly
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: Me trying to think of a good time to talk to you about my dreams while holding another person's shoulder like this, bro
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, ehh
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: I'm sure he'd be crushed if he didn't look at you like that
+Yeah, like how he must look to understand
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, ehh
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: When bro looks at you with a blank expression while smiling
+Bros looks guilty when you don't pay attention to him bro and
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, more descriptive than a joke
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: When I see someone smiling on the other side, I'm like 'Yeah man, he's my bro'
+When you're
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 2, made sense, but not funny
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: "Yo go find my friend" ahh stare is all you can muster to hear
+Ahh stare you
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, could be better
+----------------------------------------
+
+Caption: Pointing a gun at someone
+Joke: "Nah I did it" ahh pose with a tongue
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2
+----------------------------------------
+
+Caption: Pointing a gun at someone
+Joke: "Yo I'm your man" ahh pose man selling bro on the black market for
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, i don't get it
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: "Well, I'll tell you who won" ahh pose like this is how you win in life but it's YOUR
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, could be a lot better
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro isn't even coming back from the grave, he's just going to stay in his old age and get out of the
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro can't win this, he'll either be crushed or crushed in a couple of hours
+POV's gonna be 2
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, not funny but makes sense
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro wants to take down the evil monster, but the evil monster is getting his ass back
+I'd rather have him win
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, is oke
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: Bro can't sleep under that blanket, he has to sleep under
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, maybe if it finished?
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: When bro dreams about being king again, he dreams about having to
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: When you wake up with just the clothes on the floor, the
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: When the rat wakes up in a corner and starts raking around
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, ehh
+----------------------------------------
+
+Caption: Giving a girl a flower while someone else looks on angrily
+Joke: "Bro, you just love me, but you hate me so bad" ahh pose
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, not that good
+----------------------------------------
+
+Caption: Looking tired, while looking at someone sleeping
+Joke: "Gawf, I'll wake up before the sun goes down,
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, doesn't work logically
+----------------------------------------
+
+Caption: A fighter preparing to kick another fighter
+Joke: "Yo man, you're gonna kick me in the ass" ahh kick
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, not good but something
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: Bros literally ate the souls of alligators and alligators and ate them all
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, could be better
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: "Yeah, my name is Adam, and I'm gonna kick your ass" ahh
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2 doesn't relate to prompt, but ok
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: When they're asked to sign a check, you know you're gonna get 10% back
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, ehh
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: Bro's crazy, he needs to win this game to take his place
+Bro would win
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, nothing great but ok
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: "Damn, who can I trust?" ahh stare from the crowd
+"Bers
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, could be better
+----------------------------------------
+
+Caption: Looking over someone's cards
+Joke: "What do you think about my last card?" ahh stare
+Bro thinks he's
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 2, not great
+----------------------------------------

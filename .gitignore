@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+
+venv/
+.env/
+env/
+
+joke_modelV2
+my_joke_modelV2
+
+*.docx
+ComputationalComedyVid1.mp4

@@ -1,0 +1,58 @@
+Caption: A man smiling when asked about fighting
+Joke: "That
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 0
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: A ninja
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 0
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: POV: You're looking forward to it bro
+Yeah
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 0
+----------------------------------------
+
+Caption: A man smiling when asked about fighting
+Joke: Me when I tell bro "You're gonna look like a
+Temp: 0.9, Top-k: 40, Top-p: 0.95
+Rating: 0
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: Bro wants to tell me his story but it's still hard to believe he got that tattoo for me
+He said
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 0
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "I'm sorry bro... You really got me into this" ahh stare on her face,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 0, doesn't make much sense
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: Graduate of Chemistry, but still don't understand why you're still laughing at her?
+Grad
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 0
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: Me looking forward while looking forward looking forward looking forward watching my friends die
+"So
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 0
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: Me looking forward looking forward looking forward eating the rest of the food
+Me looking forward
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 0, just repeating the same words
+----------------------------------------

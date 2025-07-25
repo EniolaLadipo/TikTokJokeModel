@@ -1,0 +1,311 @@
+Caption: A student crying alone
+Joke: Graduate of Telecommunications, but she forgot her phone number
+Temperature: 0.8, Top-k: 50, Top-p: 0.95
+Rating: 4, good wordplay
+---------------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's just tired of fighting, even when he's fighting evil
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, nice reference
+----------------------------------------
+
+Caption: A doll of Gohan from Dragon Ball Z looking sick
+Joke: Bro's gonna go on a killing spree again! I ain't taking no for an answer,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: "What's the deal bro?" ahh stare"You bet your life you can" ahh stare back
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: Bro didn't understand that love is just for the happy couple to share, he's happy with his girlfriend after
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4
+----------------------------------------
+
+Caption: A man angrily watching a happy couple
+Joke: Bros and bros, bros, and bros, bros, bros, bros,
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, just says bro over and over, leaning more on absurdity
+----------------------------------------
+
+Caption: A student crying
+Joke: Graduate of Journalism, but she didn't get the news she wanted
+Grad
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 4, thats a good one
+----------------------------------------
+
+Caption: A bird standing over a no bird sign
+Joke: Bro wants to do something but he doesn't have the means to actually do it
+When the game starts getting harder
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 4, i like the first one
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: "You gotta be kidding me bro" ahh pose while smiling knowing you won't win the game
+Temp: 0.9, Top-k: 50, Top-p: 0.9
+Rating: 4, decent
+----------------------------------------
+
+Caption: Looking down disappointedly
+Joke: Bro's been so much harder on me this season and I still haven't been able to break free
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, relatable like comment
+----------------------------------------
+
+Caption: Batman standing behind a vilian who is unaware of his presence
+Joke: Bro's gotta be a bad guy but he's been doing it for years already and this is the first time
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, decent, needed more words
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: "Me too, bro" Me looking forward at you smiling
+"Yeah, theres no love in you, bro" Yeah
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, there's no love in you bro is decent
+----------------------------------------
+
+Caption: Holding another person's shoulder while smiling
+Joke: "Trust me on this" ahh pose is just what bro wants me to feel after he asked for it
+"Yay
+Temp: 0.9, Top-k: 50, Top-p: 0.95
+Rating: 4, 1st part is good, the rest could be trimmed
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: My girlfriend is crazy and wants to eat your ass, but you know who you say you are? Me,
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, wow thats crazy
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: "How dare you ask for my phone" ahh pug howling, while looking out of a window
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, could be a relationship joke
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: "Don't worry, the world will look a lot better when I stop you" ahh scream from behind
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, actually pretty good
+----------------------------------------
+
+Caption: A pug howling, while looking out of a window
+Joke: "Can't you see" ahh dog scream
+When you walk in on a boss who's sleeping and
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, 1st one is good
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro looks like he's about to die, and I can barely hold myself
+Damn, this is how I look at it
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, 1st one is good
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro has an ass full of gi's but it ain't even in his bag
+He literally got his own home gym
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, 1st is weird, 2nd is good
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: Bro can barely walk away from this match without being crushed to the point where he can barely breathe
+Bro got caught between 2
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, top was decent
+----------------------------------------
+
+Caption: A man in an arm wrestle with a much bigger, stronger looking man
+Joke: This man is going to win this, so no one else will
+Bro looks like he's gonna take this whole tournament to
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, 2nd one would be good if finished
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: "How can I help you, bro?" ahh monkey asked
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, up to ahh monkey was funny
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: Bro's soulmate is sleeping under a blanket when he wakes up
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, a good one
+----------------------------------------
+
+Caption: A chimp sleeping under a blanket
+Joke: Nah, this is my bro's house
+Bro doesn't
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, first one is good
+----------------------------------------
+
+Caption: Looking tired, while looking at someone sleeping
+Joke: "Yo bro, wake up and find your bag" ahh stare back
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, remove back and its good
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "That's not a good look on your face" ahh bird stare
+"
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, matches tone, not great but ok
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: Bro is literally standing there with a devil's eye on his face
+Bro is the
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, matches vibe but ok
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "I see" ahh bird looking directly at you
+Me when bro asked me
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, 1st is ok
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "How much you want to know" ahh stare back while looking directly at you
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, is a good one
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "You look tired" ahh bird stare look
+"Yup" ahh
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, would be good without the look part
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "Gah you're welcome" ahh bird stare
+Me and my bro go
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, matches tone, Gah is a strange addition
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "Hey, this looks like work" ahh bird looks directly at you
+You
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, not bad
+----------------------------------------
+
+Caption: An eagle looking directly at you
+Joke: "I see you're gonna end up with someone like you" ahh eagle looks
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, sassy
+----------------------------------------
+
+Caption: A fighter preparing to kick another fighter
+Joke: How he feels about fighting anyone who doesn't like him
+How he feels when
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, decent
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "I want to talk to you bro" ahh cat cat pawing
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, could be funny in a certain context
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "When you have a problem with someone else's phone bill" ahh
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, actually funny
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "I told you to forget about this" ahh cat pawing over
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, a good one
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "Yo bro we're all in this together" ahh cat scratching its
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, i like it
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "Let's talk about something bro" ahh cat placing its paw over
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, like a convention, good material
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Me sleeping with my phone in my hand, wondering if I'd be fine
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, not great but decent
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Bro, I told you to stop talking like this, bro
+Bro,
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, decent, could be better
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "I'm sorry bro, but I don't understand" ahh cat
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, good
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "Wait, I'm just kidding" ahh cat scratches its paw when
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, decent
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "I can't afford to worry about my kids" ahh cat scratches
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, good
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Me: Yeah, I know how this works, but it's a reality
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: "How much do you want to see me spend tonight" ahh cat
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, very good one
+----------------------------------------
+
+Caption: A cat putting its paw over a phone
+Joke: Me bro selling bro a bad haircut and getting a job as a clown
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, not relevant but funny
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: "Hey bro, how about you try some sweetcorn bro?" ahh pose,
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, could be a different food
+----------------------------------------
+
+Caption: Eating food and looking forward
+Joke: "I'm hungry, how can I afford it" ahh stare" ahh
+Temp: 0.9, Top-k: 60, Top-p: 0.9
+Rating: 4, could be funny
+----------------------------------------
